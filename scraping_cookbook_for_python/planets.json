@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Mercury",
+        "mass": "0.330",
+        "radius": "4879",
+        "description": "Named Mercurius by the Romans because it appears to move so swiftly.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+    },
+    {
+        "name": "Venus",
+        "mass": "4.87",
+        "radius": "12104",
+        "description": "Roman name for the goddess of love. This planet was considered to be the brightest and most beautiful planet or star in the\r\n                    heavens. Other civilizations have named it for their god or goddess of love/war.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Venus"
+    },
+    {
+        "name": "Earth",
+        "mass": "5.97",
+        "radius": "12756",
+        "description": "The name Earth comes from the Indo-European base 'er,'which produced the Germanic noun 'ertho,' and ultimately German 'erde,'\r\n                    Dutch 'aarde,' Scandinavian 'jord,' and English 'earth.' Related forms include Greek 'eraze,' meaning\r\n                    'on the ground,' and Welsh 'erw,' meaning 'a piece of land.'",
+        "moreinfo": "https://en.wikipedia.org/wiki/Earth"
+    },
+    {
+        "name": "Mars",
+        "mass": "0.642",
+        "radius": "6792",
+        "description": "Named by the Romans for their god of war because of its red, bloodlike color. Other civilizations also named this planet\r\n                    from this attribute; for example, the Egyptians named it \"Her Desher,\" meaning \"the red one.\"",
+        "moreinfo": "https://en.wikipedia.org/wiki/Mars"
+    },
+    {
+        "name": "Jupiter",
+        "mass": "1898",
+        "radius": "142984",
+        "description": "The largest and most massive of the planets was named Zeus by the Greeks and Jupiter by the Romans; he was\r\n                    the most important deity in both pantheons.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Jupiter"
+    },
+    {
+        "name": "Saturn",
+        "mass": "568",
+        "radius": "120536",
+        "description": "Roman name for the Greek Cronos, father of Zeus/Jupiter. Other civilizations have given different names to Saturn, which\r\n                    is the farthest planet from Earth that can be observed by the naked human eye. Most of its satellites\r\n                    were named for Titans who, according to Greek mythology, were brothers and sisters of Saturn.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Saturn"
+    },
+    {
+        "name": "Uranus",
+        "mass": "86.8",
+        "radius": "51118",
+        "description": "Several astronomers, including Flamsteed and Le Monnier, had observed Uranus earlier but had recorded it as a fixed star.\r\n                    Herschel tried unsuccessfully to name his discovery \"Georgian Sidus\" after George III; the planet was\r\n                    named by Johann Bode in 1781 after the ancient Greek deity of the sky Uranus, the father of Kronos (Saturn)\r\n                    and grandfather of Zeus (Jupiter).",
+        "moreinfo": "https://en.wikipedia.org/wiki/Uranus"
+    },
+    {
+        "name": "Neptune",
+        "mass": "102",
+        "radius": "49528",
+        "description": "Neptune was \"predicted\" by John Couch Adams and Urbain Le Verrier who, independently, were able to account for the irregularities\r\n                    in the motion of Uranus by correctly predicting the orbital elements of a trans- Uranian body. Using\r\n                    the predicted parameters of Le Verrier (Adams never published his predictions), Johann Galle observed\r\n                    the planet in 1846. Galle wanted to name the planet for Le Verrier, but that was not acceptable to the\r\n                    international astronomical community. Instead, this planet is named for the Roman god of the sea.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Neptune"
+    },
+    {
+        "name": "Pluto",
+        "mass": "0.0146",
+        "radius": "2370",
+        "description": "Pluto was discovered at Lowell Observatory in Flagstaff, AZ during a systematic search for a trans-Neptune planet predicted\r\n                    by Percival Lowell and William H. Pickering. Named after the Roman god of the underworld who was able\r\n                    to render himself invisible.",
+        "moreinfo": "https://en.wikipedia.org/wiki/Pluto"
+    }
+]
