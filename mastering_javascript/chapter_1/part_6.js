@@ -32,5 +32,6 @@ let superModule = (function (){
 
 })();
 
+
 superModule.getSecret();
 superModule.getPass();
