@@ -60,6 +60,7 @@ m = 1;
 var m;
 console.log(m);
 
+
 bar();
 function bar(){
   console.log('magic')
