@@ -147,3 +147,34 @@ let cow = "'moooooo'";
 let cow_re = /o+/g;
 console.log(cow_re.test(cow));
 
+// match only at the begining of string
+
+var re = /^vianney/i;
+
+console.log(re.test('Vianney veronica'));
+console.log(re.test('veronica vianney'));
+
+// match only on end
+
+re = /vianney$/i;
+
+console.log(re.test('Vianney veronica'));
+console.log(re.test('veronica vianney'));
+
+// using both says entire string must be specified
+
+re = /^vianney$/i;
+
+console.log(re.test('Vianney veronica'));
+console.log(re.test('veronica vianney'));
+console.log(re.test('vianney'));
+
+// backreferencing numbers succesfully matched patterns in a regular expression
+// that are enclosed by parenthesis
+// change the 1234 5678 string to 5678 1234
+
+var orig = "1234 5678";
+re = /(\d{4}) (\d{4})/;
+let modified = orig.replace(re, '$2 $1');
+console.log(modified);
+
